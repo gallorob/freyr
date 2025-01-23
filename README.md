@@ -1,6 +1,6 @@
-# **FREYR**: A **F**ramework for **R**ecognizing and **E**xectuing **Y**our **R**equests
+# **FREYR**: A **F**ramework for **R**ecognizing and **E**xecuting **Y**our **R**equests
 
-This repository contains the code for "FREYR: A Framework for Recognizing and Exectuing Your Requests".
+This repository contains the code for "FREYR: A Framework for Recognizing and Executing Your Requests".
 
 ## Setting it up
 Clone this repository locally:
