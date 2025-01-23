@@ -1,0 +1,21 @@
+rng_seed: 1234
+
+llm:
+  temperature: 0.8
+  top_p: 0.6
+  top_k: 10
+  intent:
+    prompt: './resources/local_llm/intent_system_prompt'
+    prompt_outlines: './resources/local_llm/intent_outlines_system_prompt'
+  params:
+    prompt: './resources/local_llm/params_system_prompt'
+    prompt_outlines: './resources/local_llm/params_outlines_system_prompt'
+    err_msg: './resources/local_llm/params_err_feedback'
+    err_msg_outlines: './resources/local_llm/params_err_feedback_outlines'
+  summary:
+    prompt: './resources/local_llm/summary_system_prompt'
+    prompt_outlines: './resources/local_llm/summary_outlines_system_prompt'
+  chat:
+    prompt: './resources/local_llm/chat_system_prompt'
+    prompt_outlines: './resources/local_llm/chat_outlines_system_prompt'
+  tokens_dir: './resources/tokens'

@@ -1,0 +1,15 @@
+numpy
+transformers
+#git+https://github.com/gallorob/dungeon-despair-domain.git
+openai
+pillow
+pydantic
+accelerate
+pandas
+matplotlib
+tqdm
+ollama
+fire
+bitsandbytes
+outlines
+tabulate
