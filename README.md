@@ -32,7 +32,7 @@ If you find this work useful, consider citing it as:
 * Or this Github repository:
 ```bibtex
 @misc{freyr,
-  title = {FREYR: A Framework for Recognizing and Exectuing Your Requests Without Tools},
+  title = {FREYR: A Framework for Recognizing and Executing Your Requests Without Tools},
   author = {Roberto Gallotta, Antonios Liapis, Georgios N. Yannakakis},
   publisher = {GitHub},
   journal = {GitHub repository},
